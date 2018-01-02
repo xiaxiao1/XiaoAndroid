@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_border_bg.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\corner_border_bg.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test1.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\test1.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_solid_bg.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\green_solid_bg.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test2.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\test2.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab2.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab2.png"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_border_bg.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\corner_border_bg.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zz.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\zz.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab2_off.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab2_off.png"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xx.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\xx.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab4.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab4.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_off.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab_off.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_btn_bg.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\comment_btn_bg.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zz.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\zz.png"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_solid_bg.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\gray_solid_bg.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab3.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab3.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xx.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\xx.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab2_off.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab2_off.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab3_off.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab3_off.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whrite_solid_bg.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\whrite_solid_bg.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whrite_solid_bg.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\whrite_solid_bg.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab3_off.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab3_off.png"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab2.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab2.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_solid_bg.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\green_solid_bg.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_state.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\text_color_state.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_btn_bg.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\comment_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_state.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\text_color_state.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab3.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab3.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab4.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab4.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test1.png",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\test1.png"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test2.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\test2.png"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_off.png",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\tab_off.png"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_solid_bg.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\drawable\\gray_solid_bg.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    }
+]

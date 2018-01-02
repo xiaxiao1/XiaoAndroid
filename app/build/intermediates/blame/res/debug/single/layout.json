@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner_view.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\banner_view.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customview_comment_view.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\customview_comment_view.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmob_update_dialog.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\layout\\bmob_update_dialog.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adapter.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_adapter.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmob_update_dialog.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\layout\\bmob_update_dialog.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_pinned.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_test_pinned.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adapter.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_adapter.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customview_top_bar.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\customview_top_bar.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asd_item3.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\asd_item3.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asd_item2.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\asd_item2.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_choose_photo.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\dialog_view_choose_photo.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_choose_photo.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\dialog_view_choose_photo.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_top.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\item_top.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_tab_item.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\bottom_tab_item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item2.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\viewpager_item2.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item2.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\viewpager_item2.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asd_item1.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\asd_item1.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item3.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\viewpager_item3.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item3.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\viewpager_item3.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_top.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\item_top.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item4.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\viewpager_item4.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item4.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\viewpager_item4.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_add_note.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\dialog_view_add_note.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customview_top_bar.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\customview_top_bar.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_tab_item.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\bottom_tab_item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asd_item2.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\asd_item2.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_img.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\item_img.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner_view.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\banner_view.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_pinned.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_test_pinned.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_view_add_note.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\dialog_view_add_note.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customview_comment_view.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\customview_comment_view.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asd_item3.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\asd_item3.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\asd_item1.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\asd_item1.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_img.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\item_img.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\g2\\XiaoAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "H:\\g2\\XiaoAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    }
+]

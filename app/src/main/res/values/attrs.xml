@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--圆角图片属性-->
+    <declare-styleable name="RoundCornerImageView">
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="cornerRadius_left_top" format="dimension" />
+        <attr name="cornerRadius_right_top" format="dimension" />
+        <attr name="cornerRadius_left_bottom" format="dimension" />
+        <attr name="cornerRadius_right_bottom" format="dimension" />
+
+    </declare-styleable>
+
+</resources>

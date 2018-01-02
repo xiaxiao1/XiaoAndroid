@@ -1,0 +1,64 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="customTheme" parent="AppTheme" >
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="myTransparent" parent="@style/AppTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus" tools:targetApi="kitkat">true</item>
+    </style>
+
+
+    <!--自定义xxDrawableView的属性-->
+    <attr name="drawableWidth_left" format="dimension" />
+    <attr name="drawableHeight_left" format="dimension" />
+    <attr name="drawableWidth_top" format="dimension" />
+    <attr name="drawableHeight_top" format="dimension" />
+    <attr name="drawableWidth_right" format="dimension" />
+    <attr name="drawableHeight_right" format="dimension" />
+    <attr name="drawableWidth_bottom" format="dimension" />
+    <attr name="drawableHeight_bottom" format="dimension" />
+    <attr name="drawablePadding" format="dimension" />
+    <attr name="position" format="integer" />
+    <attr name="drawable" format="reference" />
+    <attr name="testnumber" format="dimension" />
+    <attr name="teststring" format="string" />
+    <attr name="veilColor" format="color" />
+    <attr name="veilAlpha" format="float" />
+
+
+    <declare-styleable name="XXDrawableTextView">
+        <attr name="drawableWidth_left" />
+        <attr name="drawableHeight_left" />
+        <attr name="drawableWidth_top" />
+        <attr name="drawableHeight_top" />
+        <attr name="drawableWidth_right" />
+        <attr name="drawableHeight_right" />
+        <attr name="drawableWidth_bottom" />
+        <attr name="drawableHeight_bottom" />
+        <attr name="testnumber" />
+        <attr name="teststring" />
+    </declare-styleable>
+
+
+
+    <!--view实现蒙层效果的自定义view属性-->
+    <declare-styleable name="XXViewWithVeil">
+        <attr name="veilColor" />
+        <attr name="veilAlpha" />
+    </declare-styleable>
+
+</resources>

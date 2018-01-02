@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--activity的顶部title bar,
+可以动态的设置左右侧，中心位置的ImageView和textview的显示和隐藏，及对应的点击事件-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="58dp"
+    android:background="#dddddd"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/left_ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="8dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:id="@+id/left_img"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/right_ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="8dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:id="@+id/right_img"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="#ff0000"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/middle_ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/right_ll"
+        android:layout_toRightOf="@id/left_ll"
+        android:gravity="center"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/middle_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is title"
+            android:textSize="18sp"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

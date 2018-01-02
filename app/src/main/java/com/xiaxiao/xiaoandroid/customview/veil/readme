@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+实现View蒙层效果的功能类
+
+携带两个属性：
+        veilColor
+        veilAlpha

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xiaxiao.xiaoandroid.TestActivity"
+    android:onClick="stopRefresh"
+    >
+   <!--
+    <com.xiaxiao.xiaoandroid.customview.CommentView
+        android:id="@+id/commentview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="6dp"
+        android:layout_marginTop="6dp"
+        />
+<ListView
+    android:id="@+id/listview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_above="@id/commentview"
+    />-->
+   <!-- <com.xiaxiao.xiaoandroid.customview.MiaoWuBottomTab
+        android:id="@+id/bottom_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        >
+    </com.xiaxiao.xiaoandroid.customview.MiaoWuBottomTab>
+    <com.xiaxiao.xiaoandroid.customview.MiaoWuBottomTab
+        android:id="@+id/bottom_tab2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="100dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ajskdjasdasdas"
+            android:layout_alignParentTop="true"
+            />
+    </com.xiaxiao.xiaoandroid.customview.MiaoWuBottomTab>
+    <com.xiaxiao.xiaoandroid.customview.bannerview.XXBannerView
+        android:id="@+id/viewpager_kl"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="#aaaaaa"
+        android:layout_alignParentTop="true"
+        />-->
+    <HorizontalScrollView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                android:id="@+id/textView" />
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hashashsa"
+                android:padding="6dp"
+                />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</RelativeLayout>
