@@ -363,4 +363,11 @@ public class XiaoUtil {
         return (int) (pxValue / scale + 0.5f);
     }
 
+    public static void print(String s) {
+        System.out.println(s);
+    }
+
+    public static boolean isEmpty(String s) {
+        return s == null || "".equals(s);
+    }
 }
